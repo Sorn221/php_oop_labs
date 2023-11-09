@@ -1,0 +1,14 @@
+{
+    "name": "bmsbsbbi/task11",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": [
+            "src/SegmentFunction.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
+
