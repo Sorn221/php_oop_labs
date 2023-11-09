@@ -1,0 +1,14 @@
+{
+    "name": "bmsbsbbi/task10",
+    "autoload": {
+        "psr-4": {
+            "Bmsbsbbi\\Task10\\": "src/"
+        },
+        "files": [
+            "src/PointFunctions.php",
+            "src/Point.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
