@@ -1,0 +1,9 @@
+{
+    "name": "miste/task19",
+    "autoload": {
+        "psr-4": {
+            "Miste\\Task19\\": "src/"
+        }
+    },
+    "require": {}
+}
