@@ -1,9 +1,12 @@
 {
-    "name": "miste/task19",
+    "name": "bmsbsbbi/task11",
     "autoload": {
         "psr-4": {
-            "Miste\\Task19\\": "src/"
+            "App\\": "src/"
         }
     },
-    "require": {}
+    "minimum-stability": "dev",
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
 }
