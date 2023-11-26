@@ -7,7 +7,10 @@ class Time
     private $m;
 
     // BEGIN (write your solution here)
-
+    public static function fromString(string $time): Time
+    {
+        return new self(Time());
+    }
     // END
 
     public function __construct($h, $m)
